@@ -1,0 +1,27 @@
+#logo {
+    width: 125px;
+    height: 80px;
+}
+
+ul { /*paramètres de la bande */
+    position: sticky;
+    top: 0;
+    width: 100%;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgba(171, 1, 49, 0.5);
+  }
+li { /*pour positionner les cases sur l'hori */
+    display: inline;
+   }
+  /* positionnement des cases et coloration du texte*/
+li a {
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    text-decoration: rgb(0, 0, 0) ;
+}
+
+  
+ 
